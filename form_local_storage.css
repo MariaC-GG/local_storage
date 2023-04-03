@@ -1,0 +1,24 @@
+body{
+    background-color: lightseagreen;
+    color: aliceblue;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+button{
+    background-color: black;
+    color: aliceblue;
+}
+
+#conteudo{
+    position: absolute;
+    top: 340px;
+    left: 40px;
+    background-color: blues;
+    border: 2px solid black;
+    color: aliceblue;
+    font-size: 1.2rem;
+    padding: 16px;
+    display: block;
+}
